@@ -1,0 +1,4 @@
+github.com/monstercat/golib v0.0.0-20201116205841-05b40e6eb8b4 h1:QoG5MfD8OlTIdKOVi5WZgiftEhMRYqtmvsAIoxAD3rs=
+github.com/monstercat/golib v0.0.0-20201116205841-05b40e6eb8b4/go.mod h1:3HjaTKAzu3NcLvEM1CppdM6S9fKrPKoAPZe+zPQ31Co=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
